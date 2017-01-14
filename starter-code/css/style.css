@@ -32,6 +32,13 @@ footer {
 	float: left;
 	margin: 8%;
 }
+.cardImg {
+	height:200px;
+	width:150px;
+	float: left;
+	border: 1px black solid;
+	border-radius: 10px;
+}
 .navLink{
 	background-color: #ffbf00;
 	color:white;
